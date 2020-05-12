@@ -13,6 +13,7 @@ We are not responsible for what you do with this utility.<br>
 • <code>git clone https://github.com/Mrx-Anonym/MLSI.git</code><br>
 • <code>cd MLSI</code><br>
 • <code>unzip hyperloop.zip</code><br>
+• <code>clear</code><br>
 # How to start?
 • <code>php hyperloop.php</code><br>
 # Donate
