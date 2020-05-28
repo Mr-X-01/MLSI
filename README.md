@@ -12,7 +12,7 @@ We are not responsible for what you do with this utility.<br>
 • <code>apt upgrade</code><br>
 • <code>apt install git</code><br>
 • <code>pkg install php</code><br>
-• <code>git clone https://github.com/Mrx-Anonym/MLSI.git</code><br>
+• <code>git clone https://github.com/Mr-X-01/MLSI</code><br>
 • <code>cd MLSI</code><br>
 • <code>unzip hyperloop.zip</code><br>
 • <code>rm -f hyperloop.zip</code><br>
