@@ -17,6 +17,8 @@ We are not responsible for what you do with this utility.<br>
 • <code>unzip hyperloop.zip</code><br>
 • <code>rm -f hyperloop.zip</code><br>
 • <code>clear</code><br>
+# Key
+<b>The key is any English character<br>
 # How to start?
 • <code>php hyperloop.php</code><br>
 # Donate
